@@ -1,5 +1,7 @@
 # GalaxyBudsClient_Headtracking
 
+![ezgif-4035701fb3e0f1](https://github.com/user-attachments/assets/d7081bd0-9af3-4ba7-bd2e-c8c84048dab8)
+
 🧠 Why This Project?
 When building spatial audio content for XR, it's essential to be able to test real head movements directly inside Unity.
 
