@@ -36,7 +36,7 @@ It enables fast testing and prototyping of spatial audio systems inside a game e
 - Key	Action
 - C	Calibrate orientation (set current rotation as forward)
 - Space	Cycle through axis mapping permutations
-- Enter	Confirm current mapping as preferred (saved for next launch)
+- V	Confirm current mapping as preferred (saved for next launch)
 
 The selected mapping is persisted and reused automatically on next startup.
 
