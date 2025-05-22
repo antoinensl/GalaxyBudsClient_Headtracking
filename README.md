@@ -35,10 +35,11 @@ It enables fast testing and prototyping of spatial audio systems inside a game e
 ---
 
 🎛️ Controls
-- Key	Action
-- C	Calibrate orientation (set current rotation as forward)
-- Space	Cycle through axis mapping permutations
-- V	Confirm current mapping as preferred (saved for next launch)
+- Open the GalaxyBudsClient app and launch the spatial sensor test. Leave it open.
+- Key	Action of the script :
+  - C	Calibrate orientation (set current rotation as forward)
+  - Space	Cycle through axis mapping permutations
+  - V	Confirm current mapping as preferred (saved for next launch)
 
 The selected mapping is persisted and reused automatically on next startup.
 
